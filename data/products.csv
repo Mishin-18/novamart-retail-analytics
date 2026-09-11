@@ -1,0 +1,241 @@
+product_id,product_name,category,subcategory,brand,list_price_eur,unit_cost_eur,is_active,launch_date
+P0001,Aster Small Appliances 001,Home & Kitchen,Small Appliances,Fenix,129.47,91.08,1,2022-04-30
+P0002,Neris Small Appliances 002,Home & Kitchen,Small Appliances,Fenix,179.3,99.45,1,2023-02-28
+P0003,Fenix Skincare 003,Beauty,Skincare,Vega,64.92,46.13,1,2023-08-31
+P0004,Elara Outdoor 004,Sports,Outdoor,Vega,40.56,21.92,1,2023-05-31
+P0005,Luma Sportswear 005,Sports,Sportswear,Duna,86.78,51.65,1,2022-06-30
+P0006,Vega Home Textiles 006,Home & Kitchen,Home Textiles,Luma,97.9,59.01,0,2023-10-31
+P0007,Luma Home Textiles 007,Home & Kitchen,Home Textiles,Vega,93.36,66.84,1,2020-05-31
+P0008,Aster Fitness 008,Sports,Fitness,Aster,40.67,24.87,1,2022-12-31
+P0009,Elara Haircare 009,Beauty,Haircare,Aster,64.81,33.94,1,2023-04-30
+P0010,Aster Accessories 010,Electronics,Accessories,Vega,82.86,57.21,1,2021-04-30
+P0011,Luma Cookware 011,Home & Kitchen,Cookware,Vega,134.64,77.42,1,2023-12-31
+P0012,Vega Audio 012,Electronics,Audio,Luma,183.71,131.49,1,2023-03-31
+P0013,Orion Snacks 013,Grocery,Snacks,Duna,9.52,6.61,1,2022-02-28
+P0014,Aster Audio 014,Electronics,Audio,Fenix,244.25,164.96,0,2020-04-30
+P0015,Fenix Outdoor 015,Sports,Outdoor,Boreal,300.45,170.62,1,2022-09-30
+P0016,Elara Outdoor 016,Sports,Outdoor,Aster,95.35,47.85,1,2024-06-30
+P0017,Cobalt Outdoor 017,Sports,Outdoor,Vega,189.14,122.68,1,2021-09-30
+P0018,Cobalt Snacks 018,Grocery,Snacks,Elara,10.15,6.4,1,2020-01-31
+P0019,Vega Audio 019,Electronics,Audio,Aster,373.78,201.12,1,2024-10-31
+P0020,Neris Home Textiles 020,Home & Kitchen,Home Textiles,Luma,39.54,24.93,1,2024-04-30
+P0021,Vega Coffee & Tea 021,Grocery,Coffee & Tea,Boreal,6.92,3.64,1,2023-01-31
+P0022,Fenix Haircare 022,Beauty,Haircare,Luma,60.91,42.66,1,2020-10-31
+P0023,Neris Accessories 023,Electronics,Accessories,Orion,75.01,47.09,1,2022-12-31
+P0024,Fenix Fitness 024,Sports,Fitness,Neris,99.73,58.28,1,2024-08-31
+P0025,Aster Fitness 025,Sports,Fitness,Duna,16.75,11.01,1,2024-03-31
+P0026,Aster Coffee & Tea 026,Grocery,Coffee & Tea,Duna,26.37,16.4,1,2024-02-29
+P0027,Cobalt Home Textiles 027,Home & Kitchen,Home Textiles,Luma,89.07,43.32,1,2021-10-31
+P0028,Vega Audio 028,Electronics,Audio,Elara,337.85,193.76,1,2024-08-31
+P0029,Cobalt Cookware 029,Home & Kitchen,Cookware,Duna,23.22,15.9,1,2020-03-31
+P0030,Neris Cookware 030,Home & Kitchen,Cookware,Neris,66.38,47.1,1,2021-02-28
+P0031,Boreal Outdoor 031,Sports,Outdoor,Elara,273.98,164.29,1,2024-03-31
+P0032,Fenix Cookware 032,Home & Kitchen,Cookware,Vega,53.63,32.88,1,2024-04-30
+P0033,Cobalt Fitness 033,Sports,Fitness,Luma,165.03,117.42,1,2020-08-31
+P0034,Luma Haircare 034,Beauty,Haircare,Cobalt,28.11,18.35,1,2023-01-31
+P0035,Cobalt Sportswear 035,Sports,Sportswear,Elara,26.09,14.91,1,2023-09-30
+P0036,Aster Small Appliances 036,Home & Kitchen,Small Appliances,Fenix,115.78,81.66,1,2024-09-30
+P0037,Fenix Fitness 037,Sports,Fitness,Aster,141.02,73.87,0,2021-06-30
+P0038,Neris Skincare 038,Beauty,Skincare,Orion,68.91,47.3,1,2021-04-30
+P0039,Orion Fitness 039,Sports,Fitness,Aster,17.66,9.23,1,2020-02-29
+P0040,Luma Cookware 040,Home & Kitchen,Cookware,Duna,26.8,16.05,1,2020-10-31
+P0041,Luma Skincare 041,Beauty,Skincare,Duna,88.59,61.1,1,2020-01-31
+P0042,Boreal Fitness 042,Sports,Fitness,Luma,16.95,10.81,1,2023-07-31
+P0043,Neris Coffee & Tea 043,Grocery,Coffee & Tea,Fenix,7.84,4.39,1,2020-09-30
+P0044,Vega Haircare 044,Beauty,Haircare,Cobalt,38.78,21.01,1,2023-04-30
+P0045,Boreal Small Appliances 045,Home & Kitchen,Small Appliances,Aster,61.37,31.47,1,2024-04-30
+P0046,Elara Coffee & Tea 046,Grocery,Coffee & Tea,Fenix,6.36,3.67,1,2021-07-31
+P0047,Neris Haircare 047,Beauty,Haircare,Aster,8.71,4.52,1,2022-02-28
+P0048,Orion Sportswear 048,Sports,Sportswear,Neris,31.08,20.49,1,2020-03-31
+P0049,Boreal Cookware 049,Home & Kitchen,Cookware,Cobalt,79.31,47.6,1,2023-01-31
+P0050,Fenix Outdoor 050,Sports,Outdoor,Duna,188.62,115.92,1,2023-12-31
+P0051,Fenix Skincare 051,Beauty,Skincare,Aster,41.05,23.71,1,2020-01-31
+P0052,Duna Smartphones 052,Electronics,Smartphones,Luma,488.86,240.4,1,2022-02-28
+P0053,Vega Coffee & Tea 053,Grocery,Coffee & Tea,Vega,9.55,5.57,1,2022-05-31
+P0054,Luma Smartphones 054,Electronics,Smartphones,Luma,769.77,430.63,1,2020-01-31
+P0055,Elara Fitness 055,Sports,Fitness,Cobalt,102,50.66,1,2021-12-31
+P0056,Neris Fitness 056,Sports,Fitness,Luma,141.13,74.14,1,2023-10-31
+P0057,Vega Cookware 057,Home & Kitchen,Cookware,Elara,37.96,22.25,1,2020-03-31
+P0058,Aster Accessories 058,Electronics,Accessories,Boreal,38.36,18.46,1,2022-10-31
+P0059,Fenix Small Appliances 059,Home & Kitchen,Small Appliances,Aster,211.41,129.1,1,2023-03-31
+P0060,Boreal Coffee & Tea 060,Grocery,Coffee & Tea,Orion,10.73,6.98,1,2022-09-30
+P0061,Neris Sportswear 061,Sports,Sportswear,Vega,20.85,14.84,1,2021-02-28
+P0062,Luma Coffee & Tea 062,Grocery,Coffee & Tea,Vega,5.02,3.01,1,2021-06-30
+P0063,Elara Smartphones 063,Electronics,Smartphones,Fenix,744.43,391.19,1,2021-02-28
+P0064,Duna Cookware 064,Home & Kitchen,Cookware,Boreal,64.91,40.3,1,2023-05-31
+P0065,Orion Smartphones 065,Electronics,Smartphones,Cobalt,580.68,305.75,1,2024-09-30
+P0066,Duna Audio 066,Electronics,Audio,Fenix,183.64,129.1,1,2020-03-31
+P0067,Elara Outdoor 067,Sports,Outdoor,Duna,168.79,114.63,1,2021-08-31
+P0068,Fenix Snacks 068,Grocery,Snacks,Orion,13.33,9.16,1,2024-06-30
+P0069,Aster Small Appliances 069,Home & Kitchen,Small Appliances,Boreal,80.06,49.76,1,2021-06-30
+P0070,Orion Sportswear 070,Sports,Sportswear,Luma,81.86,42.32,0,2021-10-31
+P0071,Duna Home Textiles 071,Home & Kitchen,Home Textiles,Boreal,106.71,73.7,1,2021-07-31
+P0072,Boreal Small Appliances 072,Home & Kitchen,Small Appliances,Fenix,36.62,23.37,1,2024-06-30
+P0073,Orion Coffee & Tea 073,Grocery,Coffee & Tea,Elara,8.05,5.42,1,2022-05-31
+P0074,Duna Snacks 074,Grocery,Snacks,Duna,12.6,8.04,1,2022-12-31
+P0075,Duna Coffee & Tea 075,Grocery,Coffee & Tea,Boreal,12.57,6.13,1,2024-11-30
+P0076,Elara Coffee & Tea 076,Grocery,Coffee & Tea,Neris,8.18,4.8,1,2023-10-31
+P0077,Luma Fragrance 077,Beauty,Fragrance,Boreal,134.45,69.05,1,2022-09-30
+P0078,Boreal Sportswear 078,Sports,Sportswear,Duna,85.2,44.81,1,2023-03-31
+P0079,Cobalt Home Textiles 079,Home & Kitchen,Home Textiles,Orion,21.21,13.99,0,2021-10-31
+P0080,Neris Sportswear 080,Sports,Sportswear,Vega,58.66,38.08,1,2022-10-31
+P0081,Fenix Healthy Food 081,Grocery,Healthy Food,Neris,9.99,6.8,1,2021-07-31
+P0082,Vega Home Textiles 082,Home & Kitchen,Home Textiles,Elara,14.82,10.61,1,2020-04-30
+P0083,Fenix Sportswear 083,Sports,Sportswear,Neris,79.88,56.65,0,2023-11-30
+P0084,Luma Accessories 084,Electronics,Accessories,Cobalt,36.36,20.81,1,2022-05-31
+P0085,Fenix Audio 085,Electronics,Audio,Luma,259.6,175.4,1,2021-01-31
+P0086,Cobalt Small Appliances 086,Home & Kitchen,Small Appliances,Luma,119.09,72.73,1,2021-10-31
+P0087,Aster Skincare 087,Beauty,Skincare,Luma,84.36,54.37,0,2023-04-30
+P0088,Luma Cookware 088,Home & Kitchen,Cookware,Elara,64.25,43.04,1,2021-08-31
+P0089,Vega Coffee & Tea 089,Grocery,Coffee & Tea,Luma,11.72,7.43,1,2022-07-31
+P0090,Cobalt Fragrance 090,Beauty,Fragrance,Luma,25.83,14.26,1,2024-02-29
+P0091,Aster Skincare 091,Beauty,Skincare,Luma,46.85,29.36,1,2024-11-30
+P0092,Vega Healthy Food 092,Grocery,Healthy Food,Elara,7.69,5.16,1,2023-05-31
+P0093,Orion Home Textiles 093,Home & Kitchen,Home Textiles,Elara,55.44,38.05,1,2022-11-30
+P0094,Elara Skincare 094,Beauty,Skincare,Cobalt,44.91,27.99,1,2023-07-31
+P0095,Aster Home Textiles 095,Home & Kitchen,Home Textiles,Luma,37.18,23.77,1,2020-05-31
+P0096,Aster Fragrance 096,Beauty,Fragrance,Boreal,97.82,58.85,1,2020-10-31
+P0097,Fenix Snacks 097,Grocery,Snacks,Elara,9.56,6.77,1,2022-05-31
+P0098,Vega Smartphones 098,Electronics,Smartphones,Orion,657.57,445.16,1,2019-12-31
+P0099,Elara Home Textiles 099,Home & Kitchen,Home Textiles,Neris,107.02,56.34,1,2022-02-28
+P0100,Boreal Snacks 100,Grocery,Snacks,Orion,1.65,1.1,1,2024-10-31
+P0101,Luma Outdoor 101,Sports,Outdoor,Elara,20.22,12.4,1,2021-05-31
+P0102,Neris Small Appliances 102,Home & Kitchen,Small Appliances,Luma,215.69,138.26,1,2021-01-31
+P0103,Boreal Sportswear 103,Sports,Sportswear,Elara,100.68,57.63,0,2021-11-30
+P0104,Neris Healthy Food 104,Grocery,Healthy Food,Boreal,20.77,11.34,1,2021-01-31
+P0105,Orion Home Textiles 105,Home & Kitchen,Home Textiles,Fenix,50.49,33.49,1,2022-09-30
+P0106,Neris Smartphones 106,Electronics,Smartphones,Luma,590.86,401.72,1,2020-12-31
+P0107,Boreal Snacks 107,Grocery,Snacks,Duna,11.65,8.02,1,2022-07-31
+P0108,Neris Audio 108,Electronics,Audio,Boreal,293.67,196.44,1,2020-01-31
+P0109,Orion Sportswear 109,Sports,Sportswear,Neris,84.47,51.28,1,2023-09-30
+P0110,Boreal Smartphones 110,Electronics,Smartphones,Elara,806.88,498.73,1,2023-04-30
+P0111,Orion Accessories 111,Electronics,Accessories,Luma,47.79,31.25,1,2021-01-31
+P0112,Neris Sportswear 112,Sports,Sportswear,Aster,108.55,58.21,1,2024-05-31
+P0113,Duna Smartphones 113,Electronics,Smartphones,Fenix,430.1,266.53,1,2020-04-30
+P0114,Orion Fragrance 114,Beauty,Fragrance,Fenix,118.42,57.91,0,2020-07-31
+P0115,Elara Fitness 115,Sports,Fitness,Luma,72.2,41.15,1,2024-09-30
+P0116,Orion Fragrance 116,Beauty,Fragrance,Cobalt,72.25,42.79,1,2020-11-30
+P0117,Fenix Haircare 117,Beauty,Haircare,Orion,44.15,25.16,1,2022-04-30
+P0118,Elara Audio 118,Electronics,Audio,Aster,239.93,127.75,1,2023-08-31
+P0119,Elara Fragrance 119,Beauty,Fragrance,Orion,54.73,39.29,1,2023-04-30
+P0120,Vega Coffee & Tea 120,Grocery,Coffee & Tea,Orion,9.87,6.33,1,2022-03-31
+P0121,Vega Home Textiles 121,Home & Kitchen,Home Textiles,Neris,88.81,62.2,1,2023-11-30
+P0122,Cobalt Audio 122,Electronics,Audio,Boreal,412.02,290.52,1,2024-11-30
+P0123,Fenix Skincare 123,Beauty,Skincare,Neris,86.71,51.05,1,2023-01-31
+P0124,Orion Skincare 124,Beauty,Skincare,Duna,15.43,8.16,1,2023-11-30
+P0125,Neris Fragrance 125,Beauty,Fragrance,Luma,85.56,52.9,1,2021-05-31
+P0126,Cobalt Small Appliances 126,Home & Kitchen,Small Appliances,Aster,202.94,111.1,1,2021-03-31
+P0127,Orion Snacks 127,Grocery,Snacks,Luma,11.5,8.28,1,2024-08-31
+P0128,Orion Smartphones 128,Electronics,Smartphones,Neris,668.04,325.36,1,2024-04-30
+P0129,Luma Coffee & Tea 129,Grocery,Coffee & Tea,Boreal,22.87,11.74,1,2021-05-31
+P0130,Neris Sportswear 130,Sports,Sportswear,Vega,105.5,58.11,1,2023-04-30
+P0131,Vega Healthy Food 131,Grocery,Healthy Food,Elara,6.91,3.42,1,2021-01-31
+P0132,Boreal Fitness 132,Sports,Fitness,Orion,257.91,130.98,1,2021-08-31
+P0133,Orion Accessories 133,Electronics,Accessories,Orion,27.95,18.54,1,2024-11-30
+P0134,Aster Audio 134,Electronics,Audio,Duna,331.69,235,1,2021-10-31
+P0135,Fenix Fitness 135,Sports,Fitness,Elara,128.86,91.35,1,2024-01-31
+P0136,Cobalt Fitness 136,Sports,Fitness,Cobalt,61.69,36.55,1,2023-05-31
+P0137,Cobalt Smartphones 137,Electronics,Smartphones,Duna,738.38,463.09,1,2023-10-31
+P0138,Boreal Coffee & Tea 138,Grocery,Coffee & Tea,Boreal,9.89,6.28,1,2024-04-30
+P0139,Luma Fragrance 139,Beauty,Fragrance,Vega,131.7,76.34,1,2022-07-31
+P0140,Vega Snacks 140,Grocery,Snacks,Aster,13.79,8.79,1,2024-04-30
+P0141,Neris Small Appliances 141,Home & Kitchen,Small Appliances,Cobalt,250.18,135.62,1,2022-03-31
+P0142,Duna Fragrance 142,Beauty,Fragrance,Fenix,137.38,89.97,0,2022-11-30
+P0143,Cobalt Skincare 143,Beauty,Skincare,Boreal,71.95,37.07,1,2022-02-28
+P0144,Orion Smartphones 144,Electronics,Smartphones,Duna,539.48,387.82,1,2022-09-30
+P0145,Luma Healthy Food 145,Grocery,Healthy Food,Fenix,17.58,9.2,1,2022-01-31
+P0146,Boreal Haircare 146,Beauty,Haircare,Cobalt,34.68,23.97,1,2023-08-31
+P0147,Elara Cookware 147,Home & Kitchen,Cookware,Elara,72.16,49.44,1,2024-08-31
+P0148,Cobalt Accessories 148,Electronics,Accessories,Neris,76.19,50.71,1,2020-01-31
+P0149,Duna Audio 149,Electronics,Audio,Cobalt,80.31,56.91,1,2019-12-31
+P0150,Vega Audio 150,Electronics,Audio,Orion,83.64,45.72,1,2024-10-31
+P0151,Luma Accessories 151,Electronics,Accessories,Cobalt,82.04,48.61,1,2022-12-31
+P0152,Aster Smartphones 152,Electronics,Smartphones,Neris,389.95,201.22,1,2020-10-31
+P0153,Aster Audio 153,Electronics,Audio,Fenix,46.68,32.73,1,2020-04-30
+P0154,Cobalt Sportswear 154,Sports,Sportswear,Aster,95.89,66.49,1,2021-12-31
+P0155,Fenix Haircare 155,Beauty,Haircare,Cobalt,28.47,17.06,1,2022-08-31
+P0156,Aster Coffee & Tea 156,Grocery,Coffee & Tea,Aster,25.94,16.39,1,2022-02-28
+P0157,Elara Small Appliances 157,Home & Kitchen,Small Appliances,Vega,88.8,52.89,1,2020-12-31
+P0158,Aster Accessories 158,Electronics,Accessories,Vega,15.93,9.01,1,2022-06-30
+P0159,Luma Sportswear 159,Sports,Sportswear,Fenix,103.58,67.84,1,2024-07-31
+P0160,Duna Haircare 160,Beauty,Haircare,Neris,57.17,31.01,1,2022-01-31
+P0161,Orion Fragrance 161,Beauty,Fragrance,Luma,70.98,38.28,1,2023-01-31
+P0162,Fenix Small Appliances 162,Home & Kitchen,Small Appliances,Elara,105.79,57.55,1,2020-07-31
+P0163,Luma Fitness 163,Sports,Fitness,Boreal,129.91,84.84,1,2023-11-30
+P0164,Duna Sportswear 164,Sports,Sportswear,Cobalt,66.79,46.42,1,2021-06-30
+P0165,Fenix Accessories 165,Electronics,Accessories,Boreal,40.19,26.28,1,2022-10-31
+P0166,Vega Smartphones 166,Electronics,Smartphones,Boreal,555.63,374.09,1,2020-06-30
+P0167,Aster Accessories 167,Electronics,Accessories,Elara,56.08,37.58,1,2024-08-31
+P0168,Aster Home Textiles 168,Home & Kitchen,Home Textiles,Cobalt,74.86,40.5,1,2023-02-28
+P0169,Neris Skincare 169,Beauty,Skincare,Luma,56.86,31.35,1,2021-06-30
+P0170,Vega Cookware 170,Home & Kitchen,Cookware,Fenix,76.37,38.06,1,2023-06-30
+P0171,Orion Snacks 171,Grocery,Snacks,Boreal,12.88,7.59,1,2022-09-30
+P0172,Orion Skincare 172,Beauty,Skincare,Neris,80.06,49.4,1,2020-12-31
+P0173,Duna Fragrance 173,Beauty,Fragrance,Duna,127.16,79.59,1,2023-07-31
+P0174,Fenix Sportswear 174,Sports,Sportswear,Orion,43.52,27.04,1,2022-06-30
+P0175,Vega Fragrance 175,Beauty,Fragrance,Luma,146.25,88.57,1,2023-09-30
+P0176,Luma Outdoor 176,Sports,Outdoor,Fenix,226.36,110.77,1,2023-10-31
+P0177,Duna Home Textiles 177,Home & Kitchen,Home Textiles,Duna,81.81,52.21,0,2020-05-31
+P0178,Neris Healthy Food 178,Grocery,Healthy Food,Fenix,3.54,2.28,1,2020-11-30
+P0179,Cobalt Audio 179,Electronics,Audio,Duna,368.85,202.68,1,2023-10-31
+P0180,Elara Skincare 180,Beauty,Skincare,Boreal,87.94,51.02,1,2024-10-31
+P0181,Boreal Outdoor 181,Sports,Outdoor,Duna,260.66,139.22,1,2021-04-30
+P0182,Aster Fitness 182,Sports,Fitness,Duna,127.27,88.95,1,2020-04-30
+P0183,Elara Home Textiles 183,Home & Kitchen,Home Textiles,Vega,12.53,7.67,1,2020-12-31
+P0184,Orion Fitness 184,Sports,Fitness,Neris,99.94,58.48,0,2023-01-31
+P0185,Boreal Fragrance 185,Beauty,Fragrance,Cobalt,28.85,16.52,1,2023-03-31
+P0186,Elara Accessories 186,Electronics,Accessories,Vega,58.48,37.11,1,2022-02-28
+P0187,Boreal Small Appliances 187,Home & Kitchen,Small Appliances,Boreal,233.88,133.36,0,2022-09-30
+P0188,Luma Accessories 188,Electronics,Accessories,Boreal,58.9,41.24,1,2020-05-31
+P0189,Elara Accessories 189,Electronics,Accessories,Boreal,40.62,22.13,1,2023-06-30
+P0190,Boreal Sportswear 190,Sports,Sportswear,Boreal,55.31,31.79,1,2024-06-30
+P0191,Duna Small Appliances 191,Home & Kitchen,Small Appliances,Duna,74.59,50.78,1,2019-12-31
+P0192,Duna Coffee & Tea 192,Grocery,Coffee & Tea,Neris,27.02,17.48,1,2020-05-31
+P0193,Elara Haircare 193,Beauty,Haircare,Duna,52.24,29.33,1,2024-09-30
+P0194,Aster Small Appliances 194,Home & Kitchen,Small Appliances,Fenix,46.03,29.46,1,2023-07-31
+P0195,Elara Smartphones 195,Electronics,Smartphones,Duna,557.66,290.69,1,2020-05-31
+P0196,Vega Small Appliances 196,Home & Kitchen,Small Appliances,Neris,118.96,80.27,1,2021-03-31
+P0197,Neris Accessories 197,Electronics,Accessories,Boreal,12.92,8.62,1,2023-12-31
+P0198,Boreal Haircare 198,Beauty,Haircare,Cobalt,61.01,33.74,1,2023-01-31
+P0199,Orion Audio 199,Electronics,Audio,Boreal,229.72,113.57,1,2020-10-31
+P0200,Aster Outdoor 200,Sports,Outdoor,Elara,197.67,120.46,1,2023-12-31
+P0201,Aster Haircare 201,Beauty,Haircare,Boreal,8.25,5.62,1,2021-12-31
+P0202,Cobalt Haircare 202,Beauty,Haircare,Orion,44.96,28.32,1,2020-11-30
+P0203,Fenix Cookware 203,Home & Kitchen,Cookware,Elara,67.91,48.48,1,2023-08-31
+P0204,Duna Small Appliances 204,Home & Kitchen,Small Appliances,Duna,213.54,112.23,1,2020-07-31
+P0205,Aster Home Textiles 205,Home & Kitchen,Home Textiles,Fenix,108.87,57.12,1,2024-08-31
+P0206,Luma Audio 206,Electronics,Audio,Orion,56.25,38.57,1,2024-05-31
+P0207,Elara Outdoor 207,Sports,Outdoor,Vega,79.87,53.98,1,2021-06-30
+P0208,Cobalt Home Textiles 208,Home & Kitchen,Home Textiles,Aster,64.23,43.27,1,2020-11-30
+P0209,Fenix Home Textiles 209,Home & Kitchen,Home Textiles,Cobalt,71.88,45.2,1,2021-09-30
+P0210,Luma Home Textiles 210,Home & Kitchen,Home Textiles,Cobalt,47.13,29.81,1,2022-01-31
+P0211,Elara Outdoor 211,Sports,Outdoor,Elara,267.98,146.29,1,2022-01-31
+P0212,Fenix Sportswear 212,Sports,Sportswear,Boreal,81.54,42.17,1,2023-10-31
+P0213,Aster Fragrance 213,Beauty,Fragrance,Elara,105.38,68.2,1,2023-04-30
+P0214,Cobalt Cookware 214,Home & Kitchen,Cookware,Duna,37.11,22.97,1,2023-09-30
+P0215,Neris Small Appliances 215,Home & Kitchen,Small Appliances,Elara,207.73,130.97,1,2020-07-31
+P0216,Vega Skincare 216,Beauty,Skincare,Orion,57.57,36.44,1,2022-11-30
+P0217,Cobalt Snacks 217,Grocery,Snacks,Aster,4.11,2.09,1,2024-02-29
+P0218,Elara Accessories 218,Electronics,Accessories,Elara,18.93,10.03,1,2023-01-31
+P0219,Cobalt Small Appliances 219,Home & Kitchen,Small Appliances,Vega,177.57,124.57,1,2022-02-28
+P0220,Luma Snacks 220,Grocery,Snacks,Aster,9.44,4.62,1,2020-12-31
+P0221,Luma Healthy Food 221,Grocery,Healthy Food,Elara,5.42,3.86,1,2024-05-31
+P0222,Fenix Healthy Food 222,Grocery,Healthy Food,Cobalt,11.14,7.3,1,2023-09-30
+P0223,Duna Accessories 223,Electronics,Accessories,Elara,85.88,56.92,1,2024-11-30
+P0224,Elara Accessories 224,Electronics,Accessories,Fenix,35.68,19.03,0,2021-12-31
+P0225,Cobalt Fragrance 225,Beauty,Fragrance,Boreal,55.78,27.55,1,2024-03-31
+P0226,Boreal Coffee & Tea 226,Grocery,Coffee & Tea,Vega,9.98,5.85,1,2021-06-30
+P0227,Cobalt Fragrance 227,Beauty,Fragrance,Duna,59.61,30.19,1,2023-08-31
+P0228,Cobalt Skincare 228,Beauty,Skincare,Fenix,62.09,32.62,1,2020-07-31
+P0229,Vega Fitness 229,Sports,Fitness,Elara,28.86,14.5,1,2022-03-31
+P0230,Neris Small Appliances 230,Home & Kitchen,Small Appliances,Neris,228.82,153.08,1,2023-05-31
+P0231,Boreal Haircare 231,Beauty,Haircare,Boreal,36.14,24.91,1,2021-06-30
+P0232,Vega Snacks 232,Grocery,Snacks,Boreal,11.62,5.91,1,2020-03-31
+P0233,Aster Fitness 233,Sports,Fitness,Cobalt,91.39,51.17,1,2022-10-31
+P0234,Vega Smartphones 234,Electronics,Smartphones,Vega,417.51,230.71,1,2022-01-31
+P0235,Boreal Smartphones 235,Electronics,Smartphones,Neris,738.5,381.86,1,2020-12-31
+P0236,Orion Fitness 236,Sports,Fitness,Orion,231.64,128.54,1,2020-07-31
+P0237,Duna Haircare 237,Beauty,Haircare,Duna,54.58,38.39,1,2022-10-31
+P0238,Duna Audio 238,Electronics,Audio,Fenix,79.94,38.4,1,2024-08-31
+P0239,Vega Healthy Food 239,Grocery,Healthy Food,Luma,20.5,12,1,2024-01-31
+P0240,Luma Fragrance 240,Beauty,Fragrance,Duna,98.89,50.58,1,2021-07-31

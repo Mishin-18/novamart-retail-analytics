@@ -1,0 +1,19 @@
+store_id,store_name,country,city,region,store_format,opened_date
+S001,NovaMart Larnaca 2,Cyprus,Larnaca,Larnaca,flagship,2019-01-31
+S002,NovaMart Novi Sad 3,Serbia,Novi Sad,Vojvodina,flagship,2020-02-29
+S003,NovaMart Belgrade 4,Serbia,Belgrade,Belgrade,flagship,2021-03-31
+S004,NovaMart Kragujevac 1,Serbia,Kragujevac,Sumadija,standard,2022-04-30
+S005,NovaMart Nis 2,Serbia,Nis,Southern Serbia,standard,2023-05-31
+S006,NovaMart Larnaca 3,Cyprus,Larnaca,Larnaca,standard,2018-06-30
+S007,NovaMart Larnaca 4,Cyprus,Larnaca,Larnaca,standard,2019-07-31
+S008,NovaMart Limassol 1,Cyprus,Limassol,Limassol,standard,2020-08-31
+S009,NovaMart Nicosia 2,Cyprus,Nicosia,Nicosia,standard,2021-09-30
+S010,NovaMart Belgrade 3,Serbia,Belgrade,Belgrade,standard,2022-10-31
+S011,NovaMart Limassol 4,Cyprus,Limassol,Limassol,standard,2023-11-30
+S012,NovaMart Belgrade 1,Serbia,Belgrade,Belgrade,standard,2017-12-31
+S013,NovaMart Limassol 2,Cyprus,Limassol,Limassol,compact,2019-01-31
+S014,NovaMart Nis 3,Serbia,Nis,Southern Serbia,compact,2020-02-29
+S015,NovaMart Limassol 4,Cyprus,Limassol,Limassol,compact,2021-03-31
+S016,NovaMart Belgrade 1,Serbia,Belgrade,Belgrade,compact,2022-04-30
+S017,NovaMart Limassol 2,Cyprus,Limassol,Limassol,compact,2023-05-31
+S018,NovaMart Nicosia 3,Cyprus,Nicosia,Nicosia,compact,2018-06-30
