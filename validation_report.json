@@ -1,0 +1,14 @@
+{
+  "raw_order_rows": 55250,
+  "unique_orders": 55000,
+  "duplicate_order_rows": 250,
+  "invalid_quantity_rows": 90,
+  "missing_customer_city_rows": 185,
+  "repeated_email_rows": 94,
+  "returns": 4038,
+  "web_events": 80000,
+  "bad_item_order_fk": 0,
+  "bad_item_product_fk": 0,
+  "bad_return_order_fk": 0,
+  "bad_return_item_fk": 0
+}

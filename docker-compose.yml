@@ -1,0 +1,64 @@
+name: novamart-analytics
+services:
+  postgres:
+    image: postgres:17-alpine
+    environment:
+      POSTGRES_DB: novamart
+      POSTGRES_USER: novamart
+      POSTGRES_PASSWORD: novamart_local
+    ports: ["5433:5432"]
+    volumes: ["postgres_data:/var/lib/postgresql/data"]
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U novamart -d novamart"]
+      interval: 5s
+      timeout: 3s
+      retries: 20
+
+  mongodb:
+    image: mongo:8
+    ports: ["27018:27017"]
+    volumes: ["mongo_data:/data/db"]
+    healthcheck:
+      test: ["CMD", "mongosh", "--quiet", "--eval", "db.runCommand('ping').ok"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+
+  clickhouse:
+    image: clickhouse/clickhouse-server:25.8-alpine
+    environment:
+      CLICKHOUSE_DB: analytics
+      CLICKHOUSE_USER: novamart
+      CLICKHOUSE_PASSWORD: novamart_local
+      CLICKHOUSE_DEFAULT_ACCESS_MANAGEMENT: 1
+    ports: ["8124:8123", "9001:9000"]
+    volumes: ["clickhouse_data:/var/lib/clickhouse"]
+    healthcheck:
+      test: ["CMD-SHELL", "clickhouse-client --user novamart --password novamart_local --query 'SELECT 1' >/dev/null"]
+      interval: 5s
+      timeout: 3s
+      retries: 30
+
+  pipeline:
+    build: .
+    environment:
+      DATA_DIR: /project/data
+      POSTGRES_URL: postgresql+psycopg://novamart:novamart_local@postgres:5432/novamart
+      MONGO_URL: mongodb://mongodb:27017
+      CLICKHOUSE_HOST: clickhouse
+      CLICKHOUSE_PORT: 8123
+      CLICKHOUSE_USER: novamart
+      CLICKHOUSE_PASSWORD: novamart_local
+    volumes:
+      - ./data:/project/data:ro
+      - ./outputs:/project/outputs
+    depends_on:
+      postgres: {condition: service_healthy}
+      mongodb: {condition: service_healthy}
+      clickhouse: {condition: service_healthy}
+    restart: "no"
+
+volumes:
+  postgres_data:
+  mongo_data:
+  clickhouse_data:

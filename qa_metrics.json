@@ -1,0 +1,19 @@
+{
+  "seed": 20260830,
+  "customers": 12000,
+  "products": 240,
+  "stores": 18,
+  "unique_orders": 55000,
+  "raw_order_rows": 55250,
+  "duplicate_order_rows": 250,
+  "order_items": 108883,
+  "invalid_quantity_rows": 90,
+  "returns": 4038,
+  "web_events": 80000,
+  "missing_customer_city_rows": 185,
+  "repeated_email_rows": 94,
+  "baseline_net_revenue_eur": 14818079.13,
+  "baseline_cost_eur": 9079424.33,
+  "baseline_refund_amount_eur": 509068.37,
+  "baseline_completed_or_refunded_orders": 52244
+}
