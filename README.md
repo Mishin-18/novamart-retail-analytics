@@ -1,6 +1,6 @@
 # NovaMart Europe Analytics Platform
 
-Production-style portfolio project demonstrating an end-to-end data platform on a fully synthetic omnichannel retail dataset. The project is designed for Data Analyst, BI Analyst, Analytics Engineer and Data Engineer interviews.
+I built NovaMart as a production-style portfolio project based on a fully synthetic omnichannel retail dataset. In this project, I developed an end-to-end analytics platform that transforms imperfect source data into trusted analytical datasets and business dashboards.
 
 ## Architecture
 
@@ -17,16 +17,16 @@ flowchart LR
   COMPOSE[Docker Compose] -. orchestrates .-> PY
 ```
 
-## Demonstrated skills
+## What I implemented
 
-- SQL dimensional modelling and analytical marts
-- Python/Pandas ingestion and reconciliation
-- PostgreSQL relational warehouse
-- MongoDB event storage and indexes
-- ClickHouse analytical serving layer
-- Docker Compose reproducible infrastructure
-- automated data-quality tests and GitHub Actions CI
-- Tableau-ready KPI outputs
+- I designed a dimensional model and analytical marts in SQL.
+- I built data ingestion, cleaning and reconciliation processes with Python and Pandas.
+- I implemented a relational warehouse in PostgreSQL.
+- I used MongoDB to store and index raw web events.
+- I created a ClickHouse serving layer for aggregated analytical data.
+- I packaged the infrastructure with Docker Compose for reproducible deployment.
+- I added automated data-quality tests and a GitHub Actions CI workflow.
+- I prepared KPI datasets and Tableau dashboards for business reporting.
 
 ## Quick start on Windows
 
@@ -62,15 +62,17 @@ The repository contains demo-only local credentials for disposable Docker servic
 
 ## Data-quality story
 
-The raw layer intentionally contains 250 duplicate order rows, 90 invalid quantities, 185 missing cities and 94 repeated emails. The pipeline deduplicates orders, quarantines invalid quantities, flags repeated emails and recalculates sales totals. This creates a realistic interview narrative: ingest imperfect source data, reconcile it, model it and publish trusted KPIs.
+I intentionally designed the raw layer with realistic data-quality problems: 250 duplicate order rows, 90 invalid quantities, 185 missing cities and 94 repeated emails. I built the pipeline to deduplicate orders, quarantine invalid quantities, flag repeated emails and recalculate sales totals before publishing trusted KPIs.
 
-## Recruiter demo script
+## What this project demonstrates
 
-1. Show the architecture diagram and `docker compose ps`.
-2. Open the raw data-quality controls.
-3. Explain Bronze → Warehouse → Gold transformations.
-4. Run one PostgreSQL KPI query and the same ClickHouse mart.
-5. Present the Tableau executive dashboard.
-6. Finish with the CI test workflow and reproducible one-command setup.
+Through NovaMart, I demonstrate that I can:
+
+- take ownership of an analytics solution from raw data to business reporting;
+- investigate and resolve data-quality issues instead of assuming clean inputs;
+- design data models and trusted analytical datasets for BI users;
+- combine Python, SQL, databases and visualization tools in one workflow;
+- automate infrastructure, validation and continuous integration;
+- translate technical data processing into clear and actionable business KPIs.
 
 All people, companies, emails and transactions are fictional. No confidential employer data is included.
